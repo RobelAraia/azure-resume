@@ -3,7 +3,7 @@ My Azure Resume
 
 ## First Steps
 - Frontend folder contains the website.
-- main.js contains vistior counter code.
+- main.js contains visitor counter code.
 
 ```js
 window.addEventListener('DOMcontentLoaded', (event) => {
